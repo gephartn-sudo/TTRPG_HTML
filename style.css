@@ -17,6 +17,10 @@
     color: #8C2F39;
 }
 
+a{
+    font-size:1.5rem;
+}
+
 a:link{
     color: green;
 }
@@ -45,4 +49,12 @@ a:visited{
     align-items: center;
     padding: 2rem;
     margin: 2rem;
+}
+
+.pagelinkbox {
+    text-align: center;
+}
+
+img {
+    width: 80%;
 }
